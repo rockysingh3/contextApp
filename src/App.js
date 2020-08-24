@@ -1,8 +1,7 @@
-import React from 'react';
-import Navbar from './components/Navbar';
-import BookList from './components/BookLIst';
-import ThemecontextProvider from './contexts/ThemeContext';
-
+import React from "react";
+import Navbar from "./components/Navbar";
+import BookList from "./components/BookLIst";
+import ThemecontextProvider from "./contexts/ThemeContext";
 
 function App() {
   return (
